@@ -8,7 +8,7 @@
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>0.9-cr1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-cr1/AutoHackGUI_0.9-cr1.dmg" length="3218237" type="application/octet-stream" sparkle:edSignature="mikXT3ofx7cU991ZGN//nik3Bn8dI4yyK3UExlGbH2kBt1SgfdLoVO7xKayjrfC1yNws3gbphwL2a/Oh9yRJCg=="/>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc2/AutoHackGUI_0.9-rc2.dmg" length="3218227" type="application/octet-stream" sparkle:edSignature="zhPHn00i/w+rZMWojW0bqZ68MqFWNxFROYGi0Im3gSylpDpmQvsMfpMifpHVAUmWgzln1S6h4zVEfi6tlyxpAA=="/>
         </item>
     </channel>
 </rss>
