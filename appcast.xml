@@ -6,9 +6,9 @@
             <title>0.9-cr1</title>
             <pubDate>Fri, 18 Jul 2025 08:45:12 +0000</pubDate>
             <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.9-cr1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.9-cr2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc2/AutoHackGUI_0.9-rc2.dmg" length="3218259" type="application/octet-stream" sparkle:edSignature="RemYnWJERsqNv0vMNgfnr768j7dQoDTMASL3KjYFTHcu1A9cGRqD8WnKwOj0kfyJa73T68Gd7jT/7ay713erDg=="/>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-cr2/AutoHackGUI_0.9-cr2.dmg" length="3218225" type="application/octet-stream" sparkle:edSignature="Q+RnlRYZUH+K8AZOJe4NGIInaxxZz8lAx43hiUsCEGTLOddU4LCwH16nKyreTaNEdxOvsOSHgpNXX5kO5QWKAA=="/>
         </item>
     </channel>
 </rss>
