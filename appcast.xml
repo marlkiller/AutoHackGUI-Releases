@@ -3,6 +3,30 @@
     <channel>
         <title>AutoHackGUI</title>
         <item>
+            <title>0.9-rc3</title>
+            <pubDate>Sat, 19 Jul 2025 04:32:49 +0000</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.9-rc3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>🎉 AutoHackGUI v0.9-cr3</h2>
+
+<h3>🚀 新增功能</h3>
+<ul>
+<li>右键上下文菜单：Open in Terminal、Static Injection、Process Injection</li>
+<li>注入工具日志实时捕获和显示</li>
+<li>SIP 状态检测</li>
+</ul>
+
+<h3>🐛 修复和改进</h3>
+<ul>
+<li>修复 AppleScript 权限错误问题</li>
+<li>优化注入命令执行路径</li>
+<li>改进字符串插值和 AppleScript 命令格式</li>
+<li>增强错误处理和用户反馈</li>
+</ul> ]]></description>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc3/AutoHackGUI_0.9-rc3.dmg" length="3233113" type="application/octet-stream" sparkle:edSignature="4G9BFgwh8+FwnNQfxxhAJJLarfGQ+46MpWHIAjWs3XaT9kobHcXgBrx16NrZQ1ux80xki+umFuX7eOzWzemDBA=="/>
+        </item>
+        <item>
             <title>0.9-cr1</title>
             <pubDate>Fri, 18 Jul 2025 08:45:12 +0000</pubDate>
             <sparkle:version>34</sparkle:version>
