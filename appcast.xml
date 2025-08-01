@@ -3,6 +3,21 @@
     <channel>
         <title>AutoHackGUI</title>
         <item>
+            <title>0.9-rc4</title>
+            <pubDate>Fri, 01 Aug 2025 13:55:10 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.9-rc4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>🎉 AutoHackGUI v0.9-cr4</h2>
+
+<h3>🐛 修复和改进</h3>
+<ul>
+<li>优化 注入日志输出格式</li>
+<li>动态/进程注入 支持自定义环境变量</li>
+</ul> ]]></description>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc4/AutoHackGUI_0.9-rc4.dmg" length="3334468" type="application/octet-stream" sparkle:edSignature="UCbUB/LYiz44EfxR7aB+8tsKan8AfywiK87f2semsa+rPgHrXg4ZXlNKKUhIVzSXvm4Za0U0bvC4Ni8+MT34Dg=="/>
+        </item>
+        <item>
             <title>0.9-rc3</title>
             <pubDate>Sat, 19 Jul 2025 04:32:49 +0000</pubDate>
             <sparkle:version>35</sparkle:version>
