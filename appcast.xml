@@ -15,7 +15,7 @@
 <li>优化 注入日志输出格式</li>
 <li>动态/进程注入 支持自定义环境变量</li>
 </ul> ]]></description>
-            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc4/AutoHackGUI_0.9-rc4.dmg" length="3334468" type="application/octet-stream" sparkle:edSignature="UCbUB/LYiz44EfxR7aB+8tsKan8AfywiK87f2semsa+rPgHrXg4ZXlNKKUhIVzSXvm4Za0U0bvC4Ni8+MT34Dg=="/>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc4/AutoHackGUI_0.9-rc4.dmg" length="3335119" type="application/octet-stream" sparkle:edSignature="uUh96NBAr7xpLCpFXnPCP8emRTPicCRlRcyMKxmeb/b5H4hVeBdDaqP+ighFLu5ZfIUy7dNzm+VQWBdJWqt0BA=="/>
         </item>
         <item>
             <title>0.9-rc3</title>
