@@ -3,6 +3,37 @@
     <channel>
         <title>AutoHackGUI</title>
         <item>
+            <title>0.9-rc5</title>
+            <pubDate>Wed, 06 Aug 2025 12:59:48 +0000</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.9-rc5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>🎉 AutoHackGUI v0.9-rc5</h2>
+
+<h3>🚀 新增功能</h3>
+<ul>
+    <li><strong>AppStructure 功能</strong>：新增应用结构分析功能，可以深入查看和搜索应用包内的文件和目录结构。</li>
+    <li><strong>UserDefaults 编辑器</strong>：新增功能强大的 UserDefaults 编辑器，支持查看、编辑、新增和删除应用的偏好设置。</li>
+    <li><strong>查看签名功能</strong>：新增查看应用签名信息的功能。</li>
+    <li>新增动态/进程注入环境变量 <code>URLSESSION_HOOK_ENABLE</code>（默认值：1，默认启用）</li>
+    <li>新增动态/进程注入环境变量 <code>NSURLSESSION_MAX_BODY_LEN</code>（默认值：8192，默认禁用）</li>
+    <li>新增动态/进程注入环境变量 <code>NSURLSESSION_FILTER</code>（默认值：<code>www.fuck.com</code>，默认禁用）</li>
+    <li>右键菜单新增 <code>Build DMG</code>，可为选中应用打包 DMG</li>
+</ul>
+
+<h3>⚡ 功能改进</h3>
+<ul>
+    <li>优化环境变量管理器，支持更多默认配置</li>
+    <li>改进环境变量初始化逻辑，确保新用户获得完整的默认配置</li>
+</ul>
+
+<h3>🐛 问题修复</h3>
+<ul>
+    <li>修复了部分应用获取不到名称的问题，现在会依次尝试 CFBundleName、CFBundleDisplayName，最后使用应用路径作为备用名称</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc5/AutoHackGUI_0.9-rc5.dmg" length="3684088" type="application/octet-stream" sparkle:edSignature="vxcBdpccBDIMZO5kCIM0JsQi/ylvGiTZaOsmrAlsbqBr/Ma+fu5aGaWesMfU7Gyu+qAayp6eJIoX7okSdtrpBg=="/>
+        </item>
+        <item>
             <title>0.9-rc4</title>
             <pubDate>Fri, 01 Aug 2025 13:55:10 +0000</pubDate>
             <sparkle:version>36</sparkle:version>
