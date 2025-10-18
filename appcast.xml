@@ -4,6 +4,37 @@
         <title>AutoHackGUI</title>
         <item>
             <title>0.9-rc6</title>
+            <pubDate>Sat, 18 Oct 2025 07:33:44 +0000</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>0.9-rc6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>🎉 AutoHackGUI v0.9-rc6</h2>
+
+<p>一个现代、优雅的 macOS 图形工具，助你高效管理 APP 注入配置与操作，支持密码注入与 Helper 注入。</p>
+
+<h3>🚀 新增功能</h3>
+<ul>
+    <li><strong>十六进制搜索</strong>：App Structure 视图现已支持十六进制值搜索，可对应用二进制文件进行更深入的检查。</li>
+    <li><strong>十六进制搜索支持通配符</strong>：新的十六进制搜索功能支持通配符（<code>.</code>、<code>*</code>、<code>?</code>）匹配任意单个十六进制字符，使搜索更加灵活。</li>
+    <li><strong>静态/进程注入</strong>：新增环境变量配置功能，可轻松启用或禁用应用检查和窗口类分析功能。</li>
+</ul>
+
+<h3>⚡ 功能改进</h3>
+<ul>
+    <li><strong>文本搜索忽略大小写</strong>：App Structure 视图中的文本搜索功能现已不区分大小写，提升了易用性。</li>
+    <li>修复了启动时可能出现的崩溃问题</li>
+    <li>修复了创建Framework目录无权限的问题</li>
+    <li>新增了在 UserDefaults 编辑器中直接打开对应 plist 文件所在位置的功能</li>
+</ul>
+
+<h3>🐛 问题修复</h3>
+<ul>
+    <li>修复了在特定情况下可能导致应用崩溃的问题。</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc6/AutoHackGUI_0.9-rc6.dmg" length="3795314" type="application/octet-stream" sparkle:edSignature="AbN5zMkCRYTIegt24/RIPHUpR460f3pe6UmujFAWm6TPKOX5UrlfWBXyrUmZZfrePI4uB4b7nIiHNMY8XZKpCA=="/>
+        </item>
+        <item>
+            <title>0.9-rc6</title>
             <pubDate>Sat, 18 Oct 2025 07:27:15 +0000</pubDate>
             <sparkle:version>92</sparkle:version>
             <sparkle:shortVersionString>0.9-rc6</sparkle:shortVersionString>
@@ -63,36 +94,6 @@
     <li>修复了在特定情况下可能导致应用崩溃的问题。</li>
 </ul>]]></description>
             <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc6/AutoHackGUI_0.9-rc6.dmg" length="3790958" type="application/octet-stream" sparkle:edSignature="G/GWtT+JezLt2ngxIyFGqlre7gOzGT3isLN2dqpwU6oC1Qn/dTEM0tiT2dICLMP8eRtKxSUsB+f8iQr0vn6lDA=="/>
-        </item>
-        <item>
-            <title>0.9-rc6</title>
-            <pubDate>Sat, 30 Aug 2025 03:22:49 +0000</pubDate>
-            <sparkle:version>90</sparkle:version>
-            <sparkle:shortVersionString>0.9-rc6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>🎉 AutoHackGUI v0.9-rc6</h2>
-
-<p>一个现代、优雅的 macOS 图形工具，助你高效管理 APP 注入配置与操作，支持密码注入与 Helper 注入。</p>
-
-<h3>🚀 新增功能</h3>
-<ul>
-    <li><strong>十六进制搜索</strong>：App Structure 视图现已支持十六进制值搜索，可对应用二进制文件进行更深入的检查。</li>
-    <li><strong>十六进制搜索支持通配符</strong>：新的十六进制搜索功能支持通配符（<code>.</code>、<code>*</code>、<code>?</code>）匹配任意单个十六进制字符，使搜索更加灵活。</li>
-</ul>
-
-<h3>⚡ 功能改进</h3>
-<ul>
-    <li><strong>文本搜索忽略大小写</strong>：App Structure 视图中的文本搜索功能现已不区分大小写，提升了易用性。</li>
-    <li>修复了启动时可能出现的崩溃问题</li>
-    <li>修复了创建Framework目录无权限的问题</li>
-    <li>新增了在 UserDefaults 编辑器中直接打开对应 plist 文件所在位置的功能</li>
-</ul>
-
-<h3>🐛 问题修复</h3>
-<ul>
-    <li>修复了在特定情况下可能导致应用崩溃的问题。</li>
-</ul>]]></description>
-            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc6/AutoHackGUI_0.9-rc6.dmg" length="3775662" type="application/octet-stream" sparkle:edSignature="fNQwLwiwvpgRHubndLMUm3Uy2MSv1hA7xVu344llsGoKegu4RGFy+O2vUpH3+vYexmtCxwG4VM7fod050WipDQ=="/>
         </item>
         <item>
             <title>0.9-rc3</title>
