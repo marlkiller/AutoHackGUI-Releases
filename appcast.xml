@@ -31,7 +31,7 @@
 <ul>
     <li>修复了在特定情况下可能导致应用崩溃的问题。</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc6/AutoHackGUI_0.9-rc6.dmg" length="3795314" type="application/octet-stream" sparkle:edSignature="AbN5zMkCRYTIegt24/RIPHUpR460f3pe6UmujFAWm6TPKOX5UrlfWBXyrUmZZfrePI4uB4b7nIiHNMY8XZKpCA=="/>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc6/AutoHackGUI_0.9-rc6.dmg" length="3795323" type="application/octet-stream" sparkle:edSignature="AbHtTzAa4GvRfGWfmDJzXP5olxejyTzG9zEzFkAnRBiY2jfrYiPMOsiIUYWSI42GO2FK1cj6TUbQnOiPiwexBQ=="/>
         </item>
         <item>
             <title>0.9-rc6</title>
