@@ -3,6 +3,32 @@
     <channel>
         <title>AutoHackGUI</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sun, 05 Apr 2026 10:36:42 +0000</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>🎉 AutoHackGUI v1.1</h2>
+
+<p>一个现代、优雅的 macOS 图形工具，助你高效管理 APP 注入配置与操作，支持密码注入与 Helper 注入。</p>
+
+<h3>🚀 新增功能</h3>
+<ul>
+<li><strong>新增应用支持</strong>：添加 MDClock 2.*、Snipaste 2.11.2、Proxyman 6.7.0、BoltAI 2、IDA 9.3 等应用支持。</li>
+</ul>
+
+<h3>🐛 修复和改进</h3>
+<ul>
+<li>修复 Helper 注入异常问题。</li>
+<li>修复 "Application is damaged and not safe" 错误提示问题。</li>
+<li>修复多个应用兼容性问题。</li>
+</ul>
+
+<h3>🙏 致谢</h3>
+]]></description>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v1.1/AutoHackGUI_1.1.dmg" length="3766657" type="application/octet-stream" sparkle:edSignature="drxVHbJXUiIvNhg+5caBCUoteWgJDbGmce1u+fdGWFGJ8tyh11sJ9hy5/Tuy8RiTIElTNCF8S6fMbqYKkUfPDQ=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sun, 14 Dec 2025 12:05:20 +0000</pubDate>
             <sparkle:version>100</sparkle:version>
