@@ -3,6 +3,31 @@
     <channel>
         <title>AutoHackGUI</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 28 Apr 2026 12:00:54 +0000</pubDate>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>🎉 AutoHackGUI v1.2</h2>
+
+<p>一个现代、优雅的 macOS 图形工具，助你高效管理 APP 注入配置与操作，支持密码注入与 Helper 注入。</p>
+
+<h3>🚀 新增功能</h3>
+<ul>
+<li><strong>优化 Signature 视图</strong>：新增树形结构浏览，默认预览主程序签名与 entitlements，并支持点击切换目标。</li>
+<li><strong>拖放添加临时 App</strong>：支持直接拖放 .app 文件到侧边栏，自动选中并滚动到新添加的应用。</li>
+</ul>
+
+<h3>🐛 修复和改进</h3>
+<ul>
+<li>Signature Tree 默认展开两层，仅展示可签名的 Mach-O / Bundle 目标。</li>
+<li>为 Signature Tree 添加右键 <strong>Show in Finder/Check Insert Space</strong> 菜单。</li>
+</ul>
+
+<h3>🙏 致谢</h3>]]></description>
+            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v1.2/AutoHackGUI_1.2.dmg" length="3928259" type="application/octet-stream" sparkle:edSignature="tpcsAe9FIwA0o/sNDcVP1+ZAUqvZRN8QhriN5jgux3d+PVX21hf1hCTspr/qimgLsZPo3Q+tMwzdV15WTnzFDQ=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sun, 05 Apr 2026 10:36:42 +0000</pubDate>
             <sparkle:version>101</sparkle:version>
@@ -56,38 +81,6 @@
 <h3>🙏 致谢</h3>
 ]]></description>
             <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v1.0/AutoHackGUI_1.0.dmg" length="3807629" type="application/octet-stream" sparkle:edSignature="B3p6dPTaVTEzwi9QLHIYDdcDYlk2b6vDu3UcMkbdKieqTpA6zyl7pQFafjHius2gXB2MUQL8kjxyZpp08xZcAQ=="/>
-        </item>
-        <item>
-            <title>0.9-rc6</title>
-            <pubDate>Thu, 20 Nov 2025 12:49:58 +0000</pubDate>
-            <sparkle:version>94</sparkle:version>
-            <sparkle:shortVersionString>0.9-rc6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>🎉 AutoHackGUI v0.9-rc6</h2>
-
-<p>一个现代、优雅的 macOS 图形工具，助你高效管理 APP 注入配置与操作，支持密码注入与 Helper 注入。</p>
-
-<h3>🚀 新增功能</h3>
-<ul>
-    <li><strong>十六进制搜索</strong>：App Structure 视图现已支持十六进制值搜索，可对应用二进制文件进行更深入的检查。</li>
-    <li><strong>十六进制搜索支持通配符</strong>：新的十六进制搜索功能支持通配符（<code>.</code>、<code>*</code>、<code>?</code>）匹配任意单个十六进制字符，使搜索更加灵活。</li>
-    <li><strong>静态/进程注入</strong>：新增环境变量配置功能，可轻松启用或禁用应用检查和窗口类分析功能。</li>
-</ul>
-
-<h3>⚡ 功能改进</h3>
-<ul>
-    <li><strong>文本搜索忽略大小写</strong>：App Structure 视图中的文本搜索功能现已不区分大小写，提升了易用性。</li>
-    <li>修复了启动时可能出现的崩溃问题</li>
-    <li>修复了创建Framework目录无权限的问题</li>
-    <li>新增了在 UserDefaults 编辑器中直接打开对应 plist 文件所在位置的功能</li>
-</ul>
-
-<h3>🐛 问题修复</h3>
-<ul>
-    <li>修复了在特定情况下可能导致应用崩溃的问题。</li>
-    <li>修复了 Helper 注入功能在某些情况下失效的问题。</li>
-</ul>]]></description>
-            <enclosure url="https://github.com/marlkiller/AutoHackGUI-Releases/releases/download/v0.9-rc6/AutoHackGUI_0.9-rc6.dmg" length="3803357" type="application/octet-stream" sparkle:edSignature="lK6cl7R2ZHzggS6YmP/81v+WNVcM6yv3bh1wqwpgAQnM+MCMhuK9LibEIB+c19MEizVagRMG5RrxGB+eigDSBA=="/>
         </item>
         <item>
             <title>0.9-rc3</title>
