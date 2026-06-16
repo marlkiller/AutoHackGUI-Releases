@@ -43,7 +43,7 @@ If blocked by macOS:
 
 ```bash
 /usr/bin/xattr -r -d com.apple.quarantine "/Applications/AutoHackGUI.app"
-
+```
 ---
 
 ## 问题反馈 Issue Reporting
