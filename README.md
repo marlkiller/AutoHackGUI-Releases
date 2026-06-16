@@ -43,3 +43,12 @@ If blocked by macOS:
 
 ```bash
 /usr/bin/xattr -r -d com.apple.quarantine "/Applications/AutoHackGUI.app"
+
+---
+
+## 问题反馈 Issue Reporting
+
+核心依赖 [dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook) 相关问题请提交至：  
+For issues related to the core dependency dylib, please report at:
+
+[https://github.com/marlkiller/dylib_dobby_hook/issues](https://github.com/marlkiller/dylib_dobby_hook/issues)
